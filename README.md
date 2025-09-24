@@ -46,11 +46,3 @@
 <p align="center">Oie, eu sou Dudinha!<br>Sou estudante de Engenharia da Computação em Salvador e estou no sétimo semestre. Aqui no GitHub você vai encontrar meus projetos e estudos em backend com Java, frontend com React e Vite, além de bancos de dados como PostgreSQL (e um pouco de MongoDB) 💻.<br> Gosto de criar aplicações completas, com autenticação, CRUDs e integrações com APIs. <br>Também sou fã de esportes, como musculação 🏋️‍♀️, futebol ⚽, capoeira e ping pong 🏓, torço para o Vitória e jogo LoL de vez em quando. <br>Meu objetivo agora é continuar aprendendo arquitetura de software e, no futuro, contribuir para projetos open source 🚀.</p>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/4coxsg3ehawpupcbtlqhn72n0">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4coxsg3ehawpupcbtlqhn72n0&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
