@@ -42,6 +42,6 @@
 
 ###
 
-<p align="center">Oie, eu sou Dudinha!<br>Sou estudante de Engenharia da Computação em Salvador e estou no sétimo semestre. Aqui no GitHub você vai encontrar meus projetos e estudos em backend com Java, frontend com React e Vite, além de bancos de dados como PostgreSQL (e um pouco de MongoDB) 💻.<br> Gosto de criar aplicações completas, com autenticação, CRUDs e integrações com APIs. <br>Também sou fã de esportes, como musculação 🏋️‍♀️, futebol ⚽, capoeira e ping pong 🏓, torço para o Vitória e jogo LoL de vez em quando. <br>Meu objetivo agora é continuar aprendendo arquitetura de software e, no futuro, contribuir para projetos open source 🚀.</p>
+<p align="center">Oie, eu sou Dudinha!<br>Sou estudante de Engenharia da Computação em Salvador e estou no sétimo semestre. Aqui no GitHub você vai encontrar meus projetos e estudos em backend com Java, frontend com React e Vite, além de bancos de dados como PostgreSQL (e um pouco de MongoDB) 💻.<br> Gosto de criar aplicações completas, com autenticação, CRUDs e integrações com APIs. <br>Também sou fã de esportes, como musculação, futebol, capoeira e ping pong, torço para o Vitória e jogo LoL de vez em quando. <br>Meu objetivo agora é continuar aprendendo arquitetura de software e, no futuro, contribuir para projetos open source 🚀.</p>
 
 ###
