@@ -46,6 +46,6 @@
 I’m a Comp. Eng. student from Salvador, currently in my 8th sem.
 Here on GitHub you’ll find my projects and studies in BE (Java), FE (React + Vite), and DBs such as PostgreSQL (and some MongoDB).
 I like building full-stack apps, including auth, CRUD ops, and API integrations.
-My current goal is to keep learning SW architecture and, in the future, contribute to OSS (open-source software).”.</p>
+My current goal is to keep learning SW architecture and, in the future, contribute to open-source software.”.</p>
 
 ###
